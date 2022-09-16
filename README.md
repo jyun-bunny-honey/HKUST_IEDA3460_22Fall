@@ -6,4 +6,6 @@ IEDA3460 tutorial codes archive:
 
 * T1_Intro to Python and Hotelling Model (Spet. 5)
 
-* T2_A budget problem (Spet. 22)
+* T2_A budget problem (Spet. 19)
+
+* T3_sportstuff (Spet. 26)
