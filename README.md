@@ -9,3 +9,5 @@ IEDA3460 tutorial codes archive:
 * T2_A budget problem (Spet. 19)
 
 * T3_sportstuff (Spet. 26)
+
+* T3_optimal availability (Oct. 31)
