@@ -10,4 +10,4 @@ IEDA3460 tutorial codes archive:
 
 * T3_sportstuff (Spet. 26)
 
-* T3_optimal availability (Oct. 31)
+* T6_optimal availability (Oct. 31)
